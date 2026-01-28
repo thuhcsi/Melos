@@ -1,1 +1,1 @@
-This is a demo page for paper s2s.
+S2S: Sentence-to-section Training with Multi-task Learning for LLM-Driven Song Generation
